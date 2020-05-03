@@ -11,13 +11,19 @@ It automatically connect with your IP all u have to do is just enter your IP in 
 4. Docker-compose  
 
 # How to run the project
+
 1. Download all the given files
-2. Run " docker-compose up "
+
+2. Run docker-compose up  
+
 3. Open new tab 
-4. Then run " python3 docker__project "
+
+4. Then run python3 docker__project 
+
 5. Now you have a menu choose according to your requirement
 
 # Look and Feel
 
-![](screen1)
+![](screen1.png)
 
+![](screen2.png)
